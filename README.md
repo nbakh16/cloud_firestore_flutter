@@ -1,16 +1,15 @@
-# cloud_firestore_flutter
+# Cloud Firestore Flutter
+## Live Score demo app
+### Ostad course assignment, module 14.
 
-A new Flutter project.
+<details>
+<summary>Installation</summary>
 
-## Getting Started
+- Clone the repository, ```https://github.com/nbakh16/cloud_firestore_flutter/```.
+- Create a file named ```api_key.dart``` in ```lib``` folder and store your api keys in ```ApiKeys``` class.
+- Run ```dart pub get```
 
-This project is a starting point for a Flutter application.
+</details>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/nbakh16/cloud_firestore_flutter/assets/38786346/acbd36d0-f182-495b-8884-84a5fbdeaecf" alt="screenshot1" width="250">
+<img src="https://github.com/nbakh16/cloud_firestore_flutter/assets/38786346/ab8ae8fb-cbeb-40f8-aa8b-674c5d28abad" alt="screenshot2" width="250">
